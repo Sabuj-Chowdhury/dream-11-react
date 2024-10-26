@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 
 const Navbar = ({ freeCredits }) => {
   return (
-    <div className="max-w-7xl mx-auto flex justify-between items-center mt-5 px-4 mb-5">
+    <div className="sticky top-0 z-20 max-w-7xl mx-auto flex justify-between items-center mt-5 p-10 mb-5 backdrop-blur-md bg-yellow-50 bg-opacity-70 ">
       <div>
         <img src={logo} alt="Logo" className="h-10 w-auto" />
       </div>
