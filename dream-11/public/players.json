@@ -1,0 +1,112 @@
+{
+  "players": [
+    {
+      "playerId": "P001",
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co/MMYVJcF/virat.jpg",
+      "role": "Captain",
+      "playerType": "Batter",
+      "biddingPrice": 2000000
+    },
+    {
+      "playerId": "P002",
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "image": "https://i.ibb.co/NV2P0tY/Pat-Cummins.jpg",
+      "role": "Bowler",
+      "playerType": "Bowler",
+      "biddingPrice": 1800000
+    },
+    {
+      "playerId": "P003",
+      "name": "Joe Root",
+      "country": "England",
+      "image": "https://i.ibb.co/HqT6rBp/Joe-Root.jpg",
+      "role": "Vice Captain",
+      "playerType": "Batter",
+      "biddingPrice": 1500000
+    },
+    {
+      "playerId": "P004",
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co/hLpCqWK/Rashid-Khan.jpg",
+      "role": "Bowler",
+      "playerType": "Bowler",
+      "biddingPrice": 1700000
+    },
+    {
+      "playerId": "P005",
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co/r08FPkp/Babar-Azam.jpg",
+      "role": "Batter",
+      "playerType": "Batter",
+      "biddingPrice": 1600000
+    },
+    {
+      "playerId": "P006",
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co/8j4RnWL/Kane-Williamson.jpg",
+      "role": "Batter",
+      "playerType": "Batter",
+      "biddingPrice": 1550000
+    },
+    {
+      "playerId": "P007",
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co/KGJXgvV/Ben-Stokes.jpg",
+      "role": "All-rounder",
+      "playerType": "All-rounder",
+      "biddingPrice": 1900000
+    },
+    {
+      "playerId": "P008",
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co/WcsG6j9/David-Warner.jpg",
+      "role": "Batter",
+      "playerType": "Batter",
+      "biddingPrice": 1400000
+    },
+    {
+      "playerId": "P009",
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co/Y7ZTkcG/Trent-Boult.jpg",
+      "role": "Bowler",
+      "playerType": "Bowler",
+      "biddingPrice": 1300000
+    },
+    {
+      "playerId": "P010",
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co/pd0JkDs/Shakib-Al-Hasan.jpg",
+      "role": "All-rounder",
+      "playerType": "All-rounder",
+      "biddingPrice": 1650000
+    },
+    {
+      "playerId": "P011",
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "image": "https://i.ibb.co/NsHyxt7/Quinton-de-Kock.jpg",
+      "role": "Wicket-keeper",
+      "playerType": "Batter",
+      "biddingPrice": 1450000
+    },
+    {
+      "playerId": "P012",
+      "name": "Mujeeb Ur Rahman",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co/mScmxRM/Mujeeb-Ur-Rahman.jpg",
+      "role": "Bowler",
+      "playerType": "Bowler",
+      "biddingPrice": 1200000
+    }
+  ]
+}
